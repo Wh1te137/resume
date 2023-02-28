@@ -1,2 +1,0 @@
-# resume
-Haut Test
